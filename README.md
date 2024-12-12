@@ -1,5 +1,5 @@
-# Text To Speech [![Text To Speech](https://img.shields.io/badge/Text%20To%20Speech-Enabled-brightgreen)](https://autosubgen.com/text-to-speech)
-Unlimited Free Text to Speech Online: https://autosubgen.com/text-to-speech
+# Text To Speech [![Text To Speech](https://img.shields.io/badge/Text%20To%20Speech-Enabled-brightgreen)](https://subeditpro.com/text-to-speech)
+Unlimited Free Text to Speech Online: https://subeditpro.com/text-to-speech
 
 # Buy Me a Coffee [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FF813F)](https://buymeacoffee.com/rogerdev0623)
 
